@@ -1,0 +1,97 @@
+/*$bg-color: #333;
+$font-color: #fff;
+$primary-color: #008ed6;*/
+
+body {
+	background-color: #333!important;
+	color: #fff!important;
+}
+
+.navbar {
+	border-bottom: #008ed6 3px solid;
+	opacity: 0.8;
+}
+
+nav i {
+	color: #008ed6;
+}
+
+nav p {
+	padding-top: 15px;
+}
+
+nav a {
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+nav a p:hover {
+	color: #008ed6;
+}
+
+.branding {
+	padding-left: 30px;
+}
+
+#home-section {
+	background: url(img/auto-club06.jpg) no-repeat;
+	min-height: 750px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.dark-overlay {
+	background-color: rgba(0,0,0,0.5);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-height: 750px;
+}
+
+.home-inner {
+	padding-top: 130px;
+}
+
+#home-section .card {
+	opacity: 0.8;
+}
+
+#home-section .fa {
+	color: #008ed6;
+	background: #fff;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
+#explore-section .fa, #share-section .fa {
+	color: #fff;
+	background: #008ed6;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
+#explore-section .right {
+	padding-left: 50px;
+}
+
+#create-section .fa {
+	color: #008ed6;
+	background: #fff;
+	padding: 4px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
