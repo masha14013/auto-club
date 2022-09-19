@@ -40,7 +40,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-8 d-none d-lg-block">
-								<h1 class="display-4">Добро пожаловать в <strong>клуб</strong>!</h1>
+								<h1 class="display-4">Welcome to <strong>AUTO CLUB</strong>!</h1>
 								<div class="d-flex flex-row">
 									<div class="p-4 align-self-start">
 										<i class="fa fa-check"></i>
